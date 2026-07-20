@@ -17,6 +17,15 @@ We recommend to register to the conference timely to avoid delays.
 
 ## Updates
 
+> **20th July 2026**
+>
+> The [workshop programme](/programme) has now been updated. It includes the latest schedule, confirmed sessions, and other planned activities. At the moment, we do not have a room assignment and we will let you know as soon as we will be made aware of it.
+
+> **1st June 2026**
+>
+> We would like to thank Ronja Güldenring for her invaluable contributions as Co-Chair during the planning and establishment of the workshop. Following her recent career move, Ronja has stepped down from the organising committee. We are grateful for her dedication and the significant role she played in shaping the workshop, and we wish her every success in her new position.
+> We are also pleased to welcome Paraskevas Pegios to the organising committee as Co-Chair. We look forward to working together to deliver a successful ECCV workshop.
+
 > **16th April 2026**
 >
 > OpenReview paper submission portal now active.
